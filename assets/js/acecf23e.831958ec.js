@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklibro=self.webpackChunklibro||[]).push([[903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/libro-bugs/blog","blogTitle":"Blog","authorsListPath":"/libro-bugs/blog/authors"}')}}]);
