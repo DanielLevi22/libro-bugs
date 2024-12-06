@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklibro=self.webpackChunklibro||[]).push([[121],{8070:l=>{l.exports=JSON.parse('{"tags":[{"label":"docusaurus","permalink":"/blog/tags/docusaurus","count":2},{"label":"hello","permalink":"/blog/tags/hello","count":1}]}')}}]);
